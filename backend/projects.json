@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Appliance Insight",
+    "description": "Predicts appliance health and efficiency while suggesting replacements.",
+    "github": "https://github.com/poseswararao-balla/appliance-insight"
+  },
+  {
+    "title": "CrimeGuard AI",
+    "description": "AI-powered crime analysis and prediction system.",
+    "github": "https://github.com/poseswararao-balla/crimeguard-ai"
+  },
+  {
+    "title": "E-Commerce Price Comparison",
+    "description": "Compares product prices using Pandas and NumPy.",
+    "github": "https://github.com/poseswararao-balla/E-Commerce-price-comparison-using-pandas-and-numpy"
+  }
+]
