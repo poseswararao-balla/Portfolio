@@ -1,0 +1,13 @@
+# Node modules
+backend/node_modules/
+node_modules/
+
+# Local databases / user data
+backend/contacts.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
